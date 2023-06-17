@@ -1,5 +1,5 @@
       
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "/huddle"
   status = 200
